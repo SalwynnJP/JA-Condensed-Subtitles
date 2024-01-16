@@ -1,10 +1,8 @@
 # JA-Condensed-Subtitles
-Drama from : https://justpaste.it/u/hikariraiders
-
+ドラマ・映画 from https://justpaste.it/u/hikariraiders
 - 主題歌/OP/EDなし
 - 感動詞なし
-- Subtitle Editから編集された
-
+- Subtitle Editから編集済み
 # 追加予定
 - Aizou Keishicho Shinri Bunseki Sosahan
 - Bakayarou no Kiss
@@ -12,7 +10,6 @@ Drama from : https://justpaste.it/u/hikariraiders
 - Fight Song
 - Fukushuu no Miboujin
 - Hatsukoi no Akuma
-- Invert Jozuka Hisui Toujoshu
 - Invisible
 - Kateikyoushi no Torako
 - Kyouso no Musume
