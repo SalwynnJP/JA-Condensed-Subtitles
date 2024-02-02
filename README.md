@@ -9,7 +9,6 @@
 - Black - Crowes
 - Fight Song
 - Fukushuu no Miboujin
-- Hatsukoi no Akuma
 - Invisible
 - Kateikyoushi no Torako
 - Kyouso no Musume
@@ -21,7 +20,6 @@
 - Seishun Cinderella
 - Shukatsu Time Capsule
 - Side Story (Bakayarou no Kiss)
-- Switched
 - Tabikurage Tantei Nikki (2022)
 - Yukionna to Kani wo Kuu
 
